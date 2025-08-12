@@ -16,7 +16,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/speedwave1/speed_wav
 
 MakeWindow({
   Hub = {
-    Title = "TRUNKS | HUB",
+    Title = "ERROR|Hub",
     Animation = "🌀جار التشغيل الواجهة🌀"
   },
   Key = {
@@ -3110,4 +3110,5 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):Fir
   end
 
 })
+
 
